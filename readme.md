@@ -18,6 +18,15 @@ La aplicación se ha realizado para 3 tipos de Usuarios:
 
 ## Affinity Map
 
+A partir de las entrevistas hechas a los músicos y empresas, se ha realizado una lluvia de ideas en el cual mostrare en la siguiente imagen y [enlace](https://realtimeboard.com/app/board/o9J_kzz_Qco=/):
+
+![affinity_map](assets/affinity.png)
+
+__Los Puntos más resaltantes han sido los siguientes_:
+
+- 
+- 
+
 ## Canvas de Modelo de Negocio
 
 Esto seria el [canvas de modelo de negocio](https://realtimeboard.com/app/board/o9J_kzz-1Bk=/) tanto como músicos y empresarios, a conclusión de las ideas expuestas en el *affinity map*:
@@ -40,6 +49,10 @@ La aplicación se creo para 3 tipos de usuarios, pero en esta oportunidad mostra
 
 - Para leer la historia de nuestro músico Sebatian, [Click Aquí](https://1drv.ms/w/s!Ajr-tUTQOX2ud1MlJ9UqH9hoSS8)
 - Para leer la historia de nuestro Ingeniero de sonido Jose, [Click Aquí](https://1drv.ms/w/s!Ajr-tUTQOX2ugR_ch8nKFlnWGb0O)
+
+## Protipo
+
+![prototipo](assets/prototype/ENCORE.png)
 
 ### Enlaces Adicionales:
 
