@@ -1,4 +1,4 @@
-#                               ![title](assets/Título.png)  
+# Encore
 
 ![prototipo](assets/prototype/ENCORE.png)
 
