@@ -1,6 +1,10 @@
-![title](assets/Título.png)  
+#                               ![title](assets/Título.png)  
+
+![prototipo](assets/prototype/ENCORE.png)
 
 Encore es una aplicación en donde músicos y empresas que requieran de sus servicio se pueden comunicar y negociar de una manera sencilla, simple y eficaz para que ambos puedan incrementar sus ingresos. No solo eso! En caso que un usuario no-empresario deseara obtener músico(s) para un evento especial, esta es la plataforma!
+
+## 
 
 ## Research Cuantitativo
 
@@ -22,10 +26,13 @@ A partir de las entrevistas hechas a los músicos y empresas, se ha realizado un
 
 ![affinity_map](assets/affinity.png)
 
-__Los Puntos más resaltantes han sido los siguientes_:
+**Los Puntos más resaltantes han sido los siguientes**:
 
-- 
-- 
+- La mayoría de músicos dejaban su material artístico (discos) o coordinaban de manera presencial con clientes
+- Por parte de los músicos sería factible que la app tenga sincronización con Soundcloud, Youtube, Smule etc, para no estar subiendo el mismo material denuevo
+- Sería bueno un convenio con una empresa de taxi o vans para llevar los instrumentos pesados dado que los músicos han tenidos percances en los shows al demorarse tales como: Otra grupo tomó el lugar, cortan la presentación, etc.
+- Tener convenios con empresas de fiabilidad (APDAYC O INDECOPI) para que los músicos tengan confianza al subir sus demos de canciones propias
+- Los músicos estarían interesados en tener notificaciones de productoras para trabajar juntos
 
 ## Canvas de Modelo de Negocio
 
@@ -45,14 +52,16 @@ Esto seria el [canvas de modelo de negocio](https://realtimeboard.com/app/board/
 
 ## Story Telling:
 
-La aplicación se creo para 3 tipos de usuarios, pero en esta oportunidad mostraremos la historia de 2, un músico y una persona no-empresario en el cual tienen sueños y metas distintas pero rumbo al mismo camino: La música.
+La aplicación se creo para 3 tipos de usuarios, pero en esta oportunidad mostraremos la historia de 2, un músico y una persona no-empresario en el cual ambos tienen sueños y metas distintas pero rumbo al mismo camino: La música.
 
 - Para leer la historia de nuestro músico Sebatian, [Click Aquí](https://1drv.ms/w/s!Ajr-tUTQOX2ud1MlJ9UqH9hoSS8)
 - Para leer la historia de nuestro Ingeniero de sonido Jose, [Click Aquí](https://1drv.ms/w/s!Ajr-tUTQOX2ugR_ch8nKFlnWGb0O)
 
-## Protipo
+## Protipo: Encore
 
-![prototipo](assets/prototype/ENCORE.png)
+Gracias a *MarvelApp*, puedes ver el prototipo funcional [aquí](https://marvelapp.com/430gj5i/screen/40113000)!
+
+Si deseas ver el prototipo de el figma, puedes hacer click [aquí](https://www.figma.com/file/dl1bcCCenDJxvj5zkvswbTtX/ENCORE?node-id=1%3A3)
 
 ### Enlaces Adicionales:
 
