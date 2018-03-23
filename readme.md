@@ -4,7 +4,19 @@
 
 Encore es una aplicación en donde músicos y empresas que requieran de sus servicio se pueden comunicar y negociar de una manera sencilla, simple y eficaz para que ambos puedan incrementar sus ingresos. No solo eso! En caso que un usuario no-empresario deseara obtener músico(s) para un evento especial, esta es la plataforma!
 
-## 
+## Reto:
+
+El reto a sido creado por la empresa __Laboratoria__ en donde tuvimos que poner en práctica nuestros conocimientos adquiridos en UX tales como:
+
+- UX Research
+- Interviews
+- Affinity map
+- Canvas de Modelo de Negocio
+- User personas
+- User testing
+- Paper protyping
+- Digital Prototyping:
+  - Figma / Marvel
 
 ## Research Cuantitativo
 
