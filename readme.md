@@ -16,7 +16,8 @@ El reto a sido creado por la empresa __Laboratoria__ en donde tuvimos que poner 
 - User testing
 - Paper protyping
 - Digital Prototyping:
-  - Figma / Marvel
+  - Figma
+  - Marvel
 
 ## Research Cuantitativo
 
