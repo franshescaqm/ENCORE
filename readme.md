@@ -51,7 +51,7 @@ introducción del streaming, incluyendo Apple Music"
 
 **Fuentes:**
 
-[PDF: Cómo vivir de la música](chrome-extension://cbnaodkpfinfiipjblikofhlhlcickei/src/pdfviewer/web/viewer.html?file=http://www.wipo.int/edocs/pubdocs/es/wipo_pub_939.pdf)
+[PDF: Cómo vivir de la música](http://www.wipo.int/edocs/pubdocs/es/wipo_pub_939.pdf)
 
 [Diario 'La Gestión' - El streaming da a la industria musical su primer crecimiento en 20 años](https://gestion.pe/tecnologia/streaming-da-industria-musical-primer-crecimiento-20-anos-116987)
 
@@ -114,7 +114,39 @@ En esta investigación, se a entrevistado conocidos que estan desenvolviendose e
 
 - 4 de los 5 entrevistados son hombres
 
-- 2 han registrado sus covers o temas en diferentes aplicaciones relacionados con la nube
+- 2 han registrado sus covers o temas en diferentes aplicaciones (soudcloud, youtube, spotify, etc.)
+
+- 1 de 5 tocaba por hobbie; Se reunia con su grupo para tocar en fines de semana o en reuniones familiares
+
+- 1 de 5 no han tocado en un lugar público por timides y por ello sube su material en apps - Los demas ya tienen experiencia tocando en bares, municipalidades, eventos, etc.
+
+- 3 desearian internacionalizarse en un tiempo a medio plazo
+
+- Los 3 entrevistados que ya realizan shows desean tocar en el estadio nacional y/o Hard rock cafe
+
+- 3 han mencionado que a los iniciós de su carrera musical al tocar en un show, la banda invertia en las entradas  y entre ellos debían venderlos para que el local tenga más consumidores. 
+
+- 3 desean (o ya tienen) temas propios subidos en una app.
+
+- 2 de ellos han tenido un manager que les ha ayudado promocionarse y han podido grabar en productoras pero las mayoria de ganancias han tenido que ir para ambos, siendo  la ganancia para el grupo casi nulo.
+
+- 1 de ellos han tenido incovenientes con la empresas dado que al ultimo minuto, les había comunicado a la banda que no tenian el equipo principal para que la banda puesa tocar
+
+- 3 de 5 músicos mencionan que APDAYC es mas restringido que Indecopi
+
+- Por demora al instalar instrumentos, muchas empresas cortan las presentaciones o coordinan una hora y empieza más tarde (incumpliento por parte de empresa)
+
+- 2 de 5 les seria conveniente una movilidad para la banda ya que cargan con instrumentos pesados
+
+La aplicación a sido pensado para 2 sectores: Músicos y las empresas que requieres de sus servicios, así que se ha tomado la libertad de entrevistar a una empresa que esta años en el sector para saber que es lo que buscan al contratar a un músico. Esto ha sido los puntos más resaltante de la entrevista con Roberto, Ingeniero de sonido de la **Estación de Barranco**
+
+- Obtener notificaciones de las bandas del momento mediante FB o comentarios de empresas en donde han tocado
+
+- Desearían comentarios y calificaciones de los usuarios que han presenciado el show hacia las bandas
+
+- Desean ver el trabajo previó de los músicos (shows, conciertos, etc.)
+
+- Nos indicaron que la ganancia de los músicos son las entradas mientras que la ganancia del local es el consumo.
 
 La aplicación se ha realizado para 3 tipos de Usuarios:
 
