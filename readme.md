@@ -1,4 +1,4 @@
-# ![Encore](assets/Título.png)
+# ![titulo](https://user-images.githubusercontent.com/32288447/38380159-8c00306c-38c8-11e8-9d0e-5fddf9f69331.png)
 
 ![encore](assets/prototype/ENCORE.png)
 
