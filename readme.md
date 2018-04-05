@@ -10,7 +10,7 @@ la empresa [Laboratoria](http://www.laboratoria.la/)
 
 ## Reto:
 
-El reto a sido creado por la empresa __Laboratoria__ en donde tuvimos que poner en práctica nuestros conocimientos adquiridos en UX tales como:
+En este reto tuvimos que poner en práctica nuestros conocimientos adquiridos en UX tales como:
 
 - UX Research
 - Interviews
