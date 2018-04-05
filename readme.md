@@ -1,8 +1,12 @@
 # Encore
 
+Encore es una aplicación en donde músicos y empresas que requieran de sus servicio se pueden comunicar y negociar de una manera sencilla, simple y eficaz para que ambos puedan incrementar sus ingresos. No solo eso! En caso que un usuario no-empresario deseara obtener músico(s) para un evento especial, esta es la plataforma!
+
 ![encore](https://user-images.githubusercontent.com/32288447/38381261-df83a04a-38cb-11e8-8519-79416f9ed685.png)
 
-Encore es una aplicación en donde músicos y empresas que requieran de sus servicio se pueden comunicar y negociar de una manera sencilla, simple y eficaz para que ambos puedan incrementar sus ingresos. No solo eso! En caso que un usuario no-empresario deseara obtener músico(s) para un evento especial, esta es la plataforma!
+## Desarrollado para
+
+la empresa [Laboratoria](http://www.laboratoria.la/)
 
 ## Reto:
 
