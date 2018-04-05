@@ -1,6 +1,6 @@
-# Encore
+# ![Encore](assets/Título.png)
 
-![encore](https://user-images.githubusercontent.com/32288447/37854034-355b4942-2eb7-11e8-8172-d6e8d0e7b6e0.png)
+![encore](assets/prototype/ENCORE.png)
 
 Encore es una aplicación en donde músicos y empresas que requieran de sus servicio se pueden comunicar y negociar de una manera sencilla, simple y eficaz para que ambos puedan incrementar sus ingresos. No solo eso! En caso que un usuario no-empresario deseara obtener músico(s) para un evento especial, esta es la plataforma!
 
