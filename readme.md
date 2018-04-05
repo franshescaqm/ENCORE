@@ -1,4 +1,4 @@
-# ![titulo](https://user-images.githubusercontent.com/32288447/38380159-8c00306c-38c8-11e8-9d0e-5fddf9f69331.png)
+# Encore
 
 ![encore](assets/prototype/ENCORE.png)
 
@@ -193,6 +193,8 @@ La aplicación se creo para 3 tipos de usuarios, pero en esta oportunidad mostra
 - Para leer la historia de nuestro Ingeniero de sonido, Jose, [Click Aquí](https://1drv.ms/w/s!Ajr-tUTQOX2ugR_ch8nKFlnWGb0O)
 
 ## Protipo: Encore
+
+![titulo](https://user-images.githubusercontent.com/32288447/38380159-8c00306c-38c8-11e8-9d0e-5fddf9f69331.png)
 
 Gracias a *MarvelApp*, puedes ver el prototipo funcional [aquí](https://marvelapp.com/430gj5i/screen/40113000)!
 
